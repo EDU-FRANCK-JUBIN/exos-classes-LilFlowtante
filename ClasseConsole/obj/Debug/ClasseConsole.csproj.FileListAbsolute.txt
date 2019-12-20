@@ -1,0 +1,6 @@
+C:\Users\hfraix\Documents\Personnel\VB\ConsoleApp1\ClasseConsole\bin\Debug\ClasseConsole.exe.config
+C:\Users\hfraix\Documents\Personnel\VB\ConsoleApp1\ClasseConsole\bin\Debug\ClasseConsole.exe
+C:\Users\hfraix\Documents\Personnel\VB\ConsoleApp1\ClasseConsole\bin\Debug\ClasseConsole.pdb
+C:\Users\hfraix\Documents\Personnel\VB\ConsoleApp1\ClasseConsole\obj\Debug\ClasseConsole.csproj.CoreCompileInputs.cache
+C:\Users\hfraix\Documents\Personnel\VB\ConsoleApp1\ClasseConsole\obj\Debug\ClasseConsole.exe
+C:\Users\hfraix\Documents\Personnel\VB\ConsoleApp1\ClasseConsole\obj\Debug\ClasseConsole.pdb
