@@ -4,3 +4,10 @@ C:\Users\hfraix\Documents\Personnel\VB\ConsoleApp1\ClasseConsole\bin\Debug\Class
 C:\Users\hfraix\Documents\Personnel\VB\ConsoleApp1\ClasseConsole\obj\Debug\ClasseConsole.csproj.CoreCompileInputs.cache
 C:\Users\hfraix\Documents\Personnel\VB\ConsoleApp1\ClasseConsole\obj\Debug\ClasseConsole.exe
 C:\Users\hfraix\Documents\Personnel\VB\ConsoleApp1\ClasseConsole\obj\Debug\ClasseConsole.pdb
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\ClasseConsole\obj\Debug\ClasseConsole.csprojAssemblyReference.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\ClasseConsole\obj\Debug\ClasseConsole.csproj.CoreCompileInputs.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\ClasseConsole\obj\Debug\ClasseConsole.exe
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\ClasseConsole\obj\Debug\ClasseConsole.pdb
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\ClasseConsole\bin\Debug\ClasseConsole.exe.config
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\ClasseConsole\bin\Debug\ClasseConsole.exe
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\ClasseConsole\bin\Debug\ClasseConsole.pdb

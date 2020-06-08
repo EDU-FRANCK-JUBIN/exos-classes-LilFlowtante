@@ -1,59 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ClasseConsole
+﻿namespace ClasseConsole
 {
     class Client
     {
-        /* Attributs */
         private string cin;
         private string nom;
         private string prenom;
         private int tel;
 
-        /* Getters et setters */
-        #region
-        public string getCin()
-        {
-            return cin;
-        }
-        public void setCin(string cin)
-        {
-            this.cin = cin;
-        }
+        public string GetCin() { return cin; }
+        public void SetCin(string cin) { this.cin = cin; }
+        public string GetNom() { return nom; }
+        public void SetNom(string nom) { this.nom = nom; }
+        public string GetPrenom() { return prenom; }
+        public void SetPrenom(string prenom) { this.prenom = prenom; }
+        public int GetTel() { return tel; }
+        public void SetTel(int tel) { this.tel = tel; }
 
-        public string getNom()
-        {
-            return nom;
-        }
-        public void setNom(string nom)
-        {
-            this.nom = nom;
-        }
-
-        public string getPrenom()
-        {
-            return prenom;
-        }
-        public void setPrenom(string prenom)
-        {
-            this.prenom = prenom;
-        }
-
-        public int getTel()
-        {
-            return tel;
-        }
-        public void setTel(int tel)
-        {
-            this.tel = tel;
-        }
-        #endregion
-
-        /* Constructeur */
         public Client(string cin, string nom, string prenom, int tel)
         {
             this.cin = cin;
@@ -69,7 +31,6 @@ namespace ClasseConsole
             this.prenom = prenom;
         }
 
-        /* Méthodes de la classe */
         public string Afficher()
         {
             return "Client = CIN : " + cin + ", nom : " + nom + ", prénom : " + prenom + ", téléphone : " + tel;

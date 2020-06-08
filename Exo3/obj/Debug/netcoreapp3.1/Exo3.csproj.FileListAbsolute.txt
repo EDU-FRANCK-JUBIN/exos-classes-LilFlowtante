@@ -1,0 +1,13 @@
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\bin\Debug\netcoreapp3.1\Exo3.exe
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\bin\Debug\netcoreapp3.1\Exo3.deps.json
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\bin\Debug\netcoreapp3.1\Exo3.runtimeconfig.json
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\bin\Debug\netcoreapp3.1\Exo3.runtimeconfig.dev.json
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\bin\Debug\netcoreapp3.1\Exo3.dll
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\bin\Debug\netcoreapp3.1\Exo3.pdb
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\obj\Debug\netcoreapp3.1\Exo3.csprojAssemblyReference.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\obj\Debug\netcoreapp3.1\Exo3.csproj.CoreCompileInputs.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\obj\Debug\netcoreapp3.1\Exo3.AssemblyInfoInputs.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\obj\Debug\netcoreapp3.1\Exo3.AssemblyInfo.cs
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\obj\Debug\netcoreapp3.1\Exo3.dll
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\obj\Debug\netcoreapp3.1\Exo3.pdb
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Classes\exos-classes-LilFlowtante\Exo3\obj\Debug\netcoreapp3.1\Exo3.genruntimeconfig.cache

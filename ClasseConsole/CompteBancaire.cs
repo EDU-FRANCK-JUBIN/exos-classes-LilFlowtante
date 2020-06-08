@@ -1,21 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ClasseConsole
+﻿namespace ClasseConsole
 {
     class CompteBancaire
     {
-        /* Attributs */
         private string titulaire;
         private double solde;
         private string devise;
         private int nbComptes;
 
-        /* Getters et setters */
-        #region
         public string getTitulaire()
         {
             return titulaire;
@@ -51,9 +42,7 @@ namespace ClasseConsole
         {
             this.nbComptes = nbComptes;
         }
-        #endregion
 
-        /* Constructeur */
         public CompteBancaire(string titulaire, double solde, string devise)
         {
             this.titulaire = titulaire;
@@ -61,7 +50,6 @@ namespace ClasseConsole
             this.devise = devise;
         }
 
-        /* Méthodes de classe */
         public void Crediter(double montant)
         {
             solde += montant;

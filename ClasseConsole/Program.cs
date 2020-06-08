@@ -38,10 +38,10 @@ namespace ClasseConsole
             Console.WriteLine("Créditer de 123,3 euros le compte 1 avec le compte 2 :");
             compte2.Crediter(123.3, compte1);
             Console.WriteLine("Nouveau solde du compte 1 :");
-            Console.WriteLine(compte1.getSolde() + " euros");
+            Console.WriteLine(compte1.GetSolde() + " euros");
             Console.WriteLine();
             Console.WriteLine("Nouveau solde du compte 2 :");
-            Console.WriteLine(compte2.getSolde() + " euros");
+            Console.WriteLine(compte2.GetSolde() + " euros");
 
             Console.ReadLine();
         }
